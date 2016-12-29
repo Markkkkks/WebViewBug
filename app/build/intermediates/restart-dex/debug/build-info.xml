@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="15710330084103"
+    token="-8293699597886833043"
+    verifier="CLASS_ADDED" >
+
+    <task
+        name="javac"
+        duration="135" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="38" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="C:\Users\zeus\Desktop\WebViewBugDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+
+    <build timestamp="13642532372670" >
+        <artifact
+            location="C:\Users\zeus\Desktop\WebViewBugDemo1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="15710330084103"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="C:\Users\zeus\Desktop\WebViewBugDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
